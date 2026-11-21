@@ -329,7 +329,7 @@ https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://blc2cr.linkip.org/
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="OSN 4K H265",MTV Live HD H.265
 https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://blc2cr.linkip.org/live/1780_.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="OSN 4K H265",OSN Living HD H.265
-https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://blc2cr.linkip.org/live/1779_.m3u8
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://blc2cr.linkip.org/live/1779_.m3u8?play=
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/ef711c67-c6d0-4f40-a42b-a7b432739afb.png" group-title="أفـلام HD",STARZ Action HD
 https://blc2cr.linkip.org/live/90158_.m3u8?play=
