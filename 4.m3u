@@ -1,5 +1,5 @@
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="DUBAI CHANNELS",AL Emarat TV HD
-https://blcco.linkip.org/live/1452_.m3u8
+https://my-cors-proxy.nielsdaemen747.workers.dev/?url=https://blcco.linkip.org/live/1452_.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="DUBAI CHANNELS",Abu Dhabi TV HD
 https://blcco.linkip.org/live/1451_.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="DUBAI CHANNELS",Dubia TV HD
