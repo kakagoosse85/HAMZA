@@ -690,6 +690,39 @@ https://blcco.linkip.org/live/1666_.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ROTANA CHANNELS",Rotana Clip
 https://blcco.linkip.org/live/1665_.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="GO BOX CINEMA",GO BOX ARABIC
+https://blcco.linkip.org/live/2029_.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="GO BOX CINEMA",GO BOX AFLAM
+https://blcco.linkip.org/live/2028_.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="GO BOX CINEMA",GO BOX CLASSIC
+https://blcco.linkip.org/live/2027_.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="GO BOX CINEMA",GO BOX THEATER
+https://blcco.linkip.org/live/2026_.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="GO BOX CINEMA",GO BOX ACTION
+https://blcco.linkip.org/live/2025_.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="GO BOX CINEMA",GO BOX FANTASY
+https://blcco.linkip.org/live/2024_.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="GO BOX CINEMA",GO BOX MOVIES
+https://blcco.linkip.org/live/2023_.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="GO BOX CINEMA",GO BOX HORROR
+https://blcco.linkip.org/live/2022_.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="GO BOX CINEMA",GO BOX HINDI
+https://blcco.linkip.org/live/2021_.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="GO BOX CINEMA",GO BOX ANIMATION
+https://blcco.linkip.org/live/2020_.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MAX CHANNELS",MAX CINEMA
+https://blcco.linkip.org/live/904_.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MAX CHANNELS",MAX COMEDY
+https://blcco.linkip.org/live/903_.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MAX CHANNELS",MAX DRAMA
+https://blcco.linkip.org/live/902_.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MAX CHANNELS",MAX  FANTAST
+https://blcco.linkip.org/live/901_.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MAX CHANNELS",MAX ACTION
+https://blcco.linkip.org/live/900_.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MAX CHANNELS",MAX KIDS
+https://blcco.linkip.org/live/899_.m3u8
+
 #EXTINF:-1 tvg-id="",tvg-name="📡Ktv Aflam",tvg-logo="https://img.otf-tv.com/img/balance_291371.jpg",group-title="Ktv",📡Ktv Aflam
 https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://blc2cr.linkip.org/live/90061_.m3u8?play=
 #EXTINF:-1 tvg-id="",tvg-name="📡Ktv Cinema",tvg-logo="https://img.otf-tv.com/img/balance_50088.jpg",group-title="Ktv",📡Ktv Cinema
