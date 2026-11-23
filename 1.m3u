@@ -22,7 +22,16 @@ http://dashclloudflare.ddns.net/live/ar/qa/bein/bein_sport_7_hd/tracks-v1a1/mono
 http://dashclloudflare.ddns.net/live/ar/qa/bein/bein_sport_8_hd/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,beIN Sports 9 HD
 http://dashclloudflare.ddns.net/live/ar/qa/bein/bein_sport_9_hd/tracks-v1a1/mono.ts.m3u8
-
+#EXTINF:-1,AVAsport
+https://183.giatvcdn.com/giatv/giatv-yusfstoreavasport/yusfstoreavasport/chunks.m3u8
+#EXTINF:-1,NRT SPORTS
+https://183.giatvcdn.com/giatv/giatv-avasporttestkrdtv4/avasporttestkrdtv4/chunks.m3u8
+#EXTINF:-1,FALCON EYE 1
+http://dashclloudflare.ddns.net/live/ku/ku/unit/falcone_1/tracks-v1/index.fmp4.m3u8
+#EXTINF:-1,FALCON EYE 2
+http://dashclloudflare.ddns.net/live/ku/ku/unit/falcone_2/tracks-v1/index.fmp4.m3u8
+#EXTINF:-1,FALCON EYE 3
+http://dashclloudflare.ddns.net/live/ku/ku/unit/falcone_3/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_2.png" group-title="BEIN SPORT ",|8K| | BEIN SPORT 1 
 https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://live-tv-116849026166.europe-west1.run.app/api/korasport/stream/bein1-1080p.m3u8
 #EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_3.png" group-title="BEIN SPORT ",|8K| | BEIN SPORT 2 
