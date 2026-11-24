@@ -58,7 +58,30 @@ https://live-tv-116849026166.europe-west1.run.app/api/korasport/stream/bein5-720
 #EXTINF:-1 tvg-id="",tvg-name="📡BEIN SPORT",tvg-logo="",group-title="bein",📡bein6-720p
 https://live-tv-116849026166.europe-west1.run.app/api/korasport/stream/bein6-720p.m3u8
 
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="ALWAN SPORTS HD",ALWAN SPORTS 1 S1
+https://blcco.linkip.org/live/3461_.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="ALWAN SPORTS HD",ALWAN SPORTS 1 S2
+http://coco3-cdn.cfd:8085/alwan-1/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="ALWAN SPORTS HD",ALWAN SPORTS 2 S1
+https://blcco.linkip.org/live/3460_.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="ALWAN SPORTS HD",ALWAN SPORTS 2 S2
+http://coco3-cdn.cfd:8085/alwan-2/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="ALWAN SPORTS HD",ALWAN SPORTS 3 S1
+https://blcco.linkip.org/live/3459_.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="ALWAN SPORTS HD",ALWAN SPORTS 3 S2
+http://coco3-cdn.cfd:8085/alwan-3/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="ALWAN SPORTS HD",ALWAN SPORTS 4 S1
+https://blcco.linkip.org/live/3458_.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="ALWAN SPORTS HD",ALWAN SPORTS 4 S2
+http://coco3-cdn.cfd:8085/alwan-4/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="ALWAN SPORTS HD",ALWAN SPORTS 5 S1
+https://blcco.linkip.org/live/3457_.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="ALWAN SPORTS HD",ALWAN SPORTS 5 S2
+http://coco3-cdn.cfd:8085/alwan-5/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="ALWAN SPORTS HD",ALWAN SPORTS 6 S1
+https://blcco.linkip.org/live/3456_.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="ALWAN SPORTS HD",ALWAN SPORTS 6 S2
+http://coco3-cdn.cfd:8085/alwan-6/video.m3u8
 
 
 
