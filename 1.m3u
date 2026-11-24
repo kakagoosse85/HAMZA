@@ -630,74 +630,28 @@ http://89.187.191.41/TRT-1-HD-TR/video.m3u8
 https://helga.iptv2022.com/sh/trt_1/index.m3u8
 #EXTINF:-1 tvg-id="",tvg-name="TRT 1c (backup)",group-title="تركيا",TRT 1c (backup)
 https://trn03.tulix.tv/gt-trt1-tveu/playlist.m3u8
-#EXTINF:-1 tvg-id="Sport Plus HD",tvg-name="DZ |  Sport Plus HD",tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport-plus-hd-dz.png",group-title="الجزائر",DZ |  Sport Plus HD
-http://r665.bid/live/xasez13/aHnr65d/112129.ts
-#EXTINF:-1 tvg-id="",tvg-name="DZ | AL HAYAT TV",tvg-logo="https://cdn.elhayat.dz/wp-content/uploads/2024/08/LOGO-ELHAYAT-.DZ_00000.png",group-title="الجزائر",DZ | AL HAYAT TV
-http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=84254&extension=ts
-#EXTINF:-1 tvg-id="",tvg-name="DZ | AL HEDDAF TV",tvg-logo="https://elheddaftv.com/wp-content/uploads/2022/12/logo2.png",group-title="الجزائر",DZ | AL HEDDAF TV
-https://www.elahmad.ru/tv/algeria_live.php?id=elheddaf
-#EXTINF:-1 tvg-id="",tvg-name="DZ | AL HEDDAF TV",tvg-logo="https://elheddaftv.com/wp-content/uploads/2022/12/logo2.png",group-title="الجزائر",DZ | AL HEDDAF TV
-http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=6700&extension=ts
-#EXTINF:-1 tvg-id="",tvg-name="DZ | AL24 NEWS",tvg-logo="https://i5.satexpat.com/cha/dz/AL24-News-95x62.gif",group-title="الجزائر",DZ | AL24 NEWS
-https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CanalAlgerie.ar",tvg-name="DZ | CANAL ALGERIE",tvg-logo="https://www.entv.dz/sites/default/files/styles/thumbnail/public/logos/logo-entv-tV2.png.webp?itok=9e7qO3Uc",group-title="الجزائر",DZ | CANAL ALGERIE
-https://www.elahmad.ru/tv/arabic-tv-online.php?id=canalalgerie
-#EXTINF:-1 tvg-id="",tvg-name="DZ | ECHOROUK NEWS",tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/ECHOUROUK-NEWS.png/250px-ECHOUROUK-NEWS.png",group-title="الجزائر",DZ | ECHOROUK NEWS
-https://www.elahmad.ru/tv/mobiletv/glarb.php?id=echorouk_news
-#EXTINF:-1 tvg-id="",tvg-name="DZ | ECHOROUK NEWS",tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/ECHOUROUK-NEWS.png/250px-ECHOUROUK-NEWS.png",group-title="الجزائر",DZ | ECHOROUK NEWS
-http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=6716&extension=ts
-#EXTINF:-1 tvg-id="Echorouk.TV.eg",tvg-name="DZ | ECHOROUK TV HD",tvg-logo="http://pro.netmos.ovh:6051/img/tsawer/DZ/DZ.echourouk.TV.png",group-title="الجزائر",DZ | ECHOROUK TV HD
-https://www.elahmad.ru/tv/algeria_live.php?id=echorouk_tvhd
-#EXTINF:-1 tvg-id="Echorouk.TV.eg",tvg-name="DZ | ECHOROUK TV HD",tvg-logo="http://pro.netmos.ovh:6051/img/tsawer/DZ/DZ.echourouk.TV.png",group-title="الجزائر",DZ | ECHOROUK TV HD
-http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=6715&extension=ts
-#EXTINF:-1 tvg-id="",tvg-name="DZ | EL BILAD",tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/El_Bilad_%28journal%29.png/250px-El_Bilad_%28journal%29.png",group-title="الجزائر",DZ | EL BILAD
-https://www.elahmad.ru/tv/mobiletv/glarb.php?id=elbilad1
-
-#EXTINF:-1 tvg-id="",tvg-name="DZ | EL DJAZAIR N1",tvg-logo="https://i5.satexpat.com/cha/dz/elDjazairN1-95x95.gif",group-title="الجزائر",DZ | EL DJAZAIR N1
-http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=550005&extension=ts&play_token=PbRnmnTYDa
-#EXTINF:-1 tvg-id="",tvg-name="DZ | EL FADJR",tvg-logo="https://alfadjr.dz/logo.png",group-title="الجزائر",DZ | EL FADJR
-http://185.191.126.127:8080/live///80986533788/5662111245/14876.ts
-#EXTINF:-1 tvg-id="",tvg-name="DZ | EL WATANIYA TV",tvg-logo="https://cdn.elwataniatv.dz/wp-content/uploads/2026/01/al-watania.png",group-title="الجزائر",DZ | EL WATANIYA TV
+#EXTINF:-1 tvg-id="CanalAlgerie.dz" tvg-country="DZ" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/canal_algerie.jpg" group-title="DZ",Canal Algérie - الجزائرية الثانية (TV2)
+http://185.9.2.18/chid_347/index.m3u8
+#EXTINF:-1 tvg-id="CoranTV5.dz" tvg-country="DZ" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/algerie5.jpg" group-title="DZ",قناة القرآن الكريم الجزائرية (TV5)
+https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
+#EXTINF:-1 tvg-id="EdhakiraTV8.dz" tvg-country="DZ" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/algerie8.jpg" group-title="DZ",قناة الذاكرة الجزائرية (TV8)
+https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/corp/66_al24_u4yga6h_1080p/chunks.m3u8
+#EXTINF:-1 tvg-id="TV6Algerie.dz" tvg-country="DZ" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/algerie6.jpg" group-title="DZ",القناة السادسة الشبابية الجزائرية (TV6)
+http://185.9.2.18/chid_347/index.m3u8
+#EXTINF:-1 tvg-id="ElHeddafTV.dz" tvg-country="DZ" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/elheddaf.jpg" group-title="DZ",El Heddaf TV - قناة الهداف الرياضية
+https://live.elheddaftv.com:8081/elheddaftv/index.m3u8
+#EXTINF:-1 tvg-id="AlanisTV.dz" tvg-country="DZ" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/alanistv.jpg" group-title="DZ",Alanis TV - قناة الأنيس الفضائية
+https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv2/playlist.m3u8
+#EXTINF:-1 tvg-id="ElWataniaTV.dz" tvg-country="DZ" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/elwataniatv_dz.jpg" group-title="DZ",El Watania TV - قناة الوطنية الجزائرية
 https://livesstream.work.gd:5443/WebRTCApp/streams/stream.m3u8
-#EXTINF:-1 tvg-id="",tvg-name="DZ | ENNAHAR TV",tvg-logo="http://pro.netmos.ovh:6051/img/tsawer/DZ/DZ.ennahar.news.png",group-title="الجزائر",DZ | ENNAHAR TV
-https://www.elahmad.ru/tv/algeria_live.php?id=ennahartv
-#EXTINF:-1 tvg-id="",tvg-name="DZ | ENNAHAR TV",tvg-logo="http://pro.netmos.ovh:6051/img/tsawer/DZ/DZ.ennahar.news.png",group-title="الجزائر",DZ | ENNAHAR TV
-http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=6717&extension=ts
-#EXTINF:-1 tvg-id="CanalAlgerie.ar",tvg-name="DZ | ENTV HD",tvg-logo="https://www.entv.dz/sites/default/files/styles/thumbnail/public/logos/logo-entv-tV1.png.webp?itok=BFDLIIuY",group-title="الجزائر",DZ | ENTV HD
-https://ok.ru/video/16244756717144
-#EXTINF:-1 tvg-id="CanalAlgerie.ar",tvg-name="DZ | ENTV HD",tvg-logo="https://www.entv.dz/sites/default/files/styles/thumbnail/public/logos/logo-entv-tV1.png.webp?itok=BFDLIIuY",group-title="الجزائر",DZ | ENTV HD
-https://www.elahmad.ru/tv/algeria_live.php?id=entv_algerie
-#EXTINF:-1 tvg-id="",tvg-name="DZ | FADJR",tvg-logo="https://alfadjr.dz/logo.png",group-title="الجزائر",DZ | FADJR
-https://www.elahmad.ru/tv/algeria_live.php?id=el_fadjr_tv
-#EXTINF:-1 tvg-id="",tvg-name="DZ | FADJR",tvg-logo="https://alfadjr.dz/logo.png",group-title="الجزائر",DZ | FADJR
-http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=6703&extension=ts&play_token=hBsUV2q6Wn
-#EXTINF:-1 tvg-id="",tvg-name="DZ | Onetv TV",tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkxTUy6hCjHYxxpyf_4QFoqojnqSdm11VmgBU-L6UoFg&s=10",group-title="الجزائر",DZ | Onetv TV
-http://96235-sand.tx-4kott.com/live/2493f21902/6b9f460f66/1472001.ts
-#EXTINF:-1 tvg-id="Shahid Samira TV",tvg-name="DZ | SAMIRA TV HD",tvg-logo="https://www.samiratv.tv/samiratv.png",group-title="الجزائر",DZ | SAMIRA TV HD
-https://www.elahmad.ru/tv/mobiletv/glarb.php?id=samira_tv
-#EXTINF:-1 tvg-id="Shahid Samira TV",tvg-name="DZ | SAMIRA TV HD",tvg-logo="https://www.samiratv.tv/samiratv.png",group-title="الجزائر",DZ | SAMIRA TV HD
-http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=6710&extension=ts&play_token=mlnXn1mMBg
-#EXTINF:-1 tvg-id="",tvg-name="DZ | TV3 AL IKHBARIA",tvg-logo="https://www.entv.dz/sites/default/files/styles/thumbnail/public/logos/logo-entv-tV3.png.webp?itok=AH9qQ32X",group-title="الجزائر",DZ | TV3 AL IKHBARIA
-https://ok.ru/video/14587474550360
-#EXTINF:-1 tvg-id="",tvg-name="DZ | TV3 AL IKHBARIA",tvg-logo="https://www.entv.dz/sites/default/files/styles/thumbnail/public/logos/logo-entv-tV3.png.webp?itok=AH9qQ32X",group-title="الجزائر",DZ | TV3 AL IKHBARIA
-https://www.elahmad.ru/tv/algeria_live.php?id=algeria3
-#EXTINF:-1 tvg-id="",tvg-name="DZ | TV4 TAMAZIGH",tvg-logo="https://www.entv.dz/sites/default/files/styles/thumbnail/public/logos/logo-entv-tV4.png.webp?itok=DwNIsPKH",group-title="الجزائر",DZ | TV4 TAMAZIGH
-https://www.elahmad.ru/tv/mobiletv/glarb.php?id=algeria4
-#EXTINF:-1 tvg-id="",tvg-name="DZ | TV5 QURAN",tvg-logo="https://www.entv.dz/sites/default/files/styles/thumbnail/public/logos/logo-entv-tV5.png.webp?itok=pFFb7BW4",group-title="الجزائر",DZ | TV5 QURAN
-https://www.elahmad.ru/tv/algeria_live.php?id=algerie5
-#EXTINF:-1 tvg-id="",tvg-name="DZ | TV6 HD",tvg-logo="https://www.entv.dz/sites/default/files/styles/thumbnail/public/logos/logo-chababiya6.png.webp?itok=CtaUUAMW",group-title="الجزائر",DZ | TV6 HD
-https://ok.ru/video/13051777850968
-#EXTINF:-1 tvg-id="",tvg-name="DZ | TV6 HD",tvg-logo="https://www.entv.dz/sites/default/files/styles/thumbnail/public/logos/logo-chababiya6.png.webp?itok=CtaUUAMW",group-title="الجزائر",DZ | TV6 HD
-https://www.elahmad.ru/tv/algeria_live.php?id=algerie6
-#EXTINF:-1 tvg-id="",tvg-name="DZ | TV7 AL MAARIFA",tvg-logo="https://www.entv.dz/sites/default/files/styles/thumbnail/public/logos/logo-entv-tV7.png.webp?itok=tA0GQkJI",group-title="الجزائر",DZ | TV7 AL MAARIFA
-https://www.elahmad.ru/tv/algeria_live.php?id=algerie7
-#EXTINF:-1 tvg-id="",tvg-name="DZ | TV7 AL MAARIFA",tvg-logo="https://www.entv.dz/sites/default/files/styles/thumbnail/public/logos/logo-entv-tV7.png.webp?itok=tA0GQkJI",group-title="الجزائر",DZ | TV7 AL MAARIFA
-http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/1145.ts
-#EXTINF:-1 tvg-id="",tvg-name="DZ | ZAHRA TV",tvg-logo="https://www.zahratv.net/cdn/about/Logo11.png",group-title="الجزائر",DZ | ZAHRA TV
-http://iptvnow.nl:80/play/live.php?mac=00:1A:79:71:3F:D3&stream=828228&extension=ts
-#EXTINF:-1 tvg-id="",tvg-name="DZ || TV8 AL DHAKIRA",tvg-logo="https://www.entv.dz/sites/default/files/styles/thumbnail/public/logos/logo-entv-tV8.png.webp?itok=vbb5FGFu",group-title="الجزائر",DZ || TV8 AL DHAKIRA
-https://www.elahmad.ru/tv/algeria_live.php?id=algerie8
+#EXTINF:-1 tvg-id="AmouYazidTV.dz" tvg-country="DZ" tvg-language="ar" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/amouyazid.jpg" group-title="DZ",Amou Yazid TV - قناة عمو يزيد للأطفال
+http://mkstream.servehttp.com:1940/AmouYazid/ay1/playlist.m3u8
+#EXTINF:-1 tvg-id="CNA.dz" tvg-country="DZ" tvg-language="fr" tvg-logo="https://raw.githubusercontent.com/wadifati1dz/Annes-IPTV-Updates/main/logos/almagharibiatv.jpg" group-title="DZ",CNA - القناة المغاربية الإخبارية
+https://live.creacast.com/cna/stream/playlist.m3u8
+
+
+
 
 #EXTINF:-1 tvg-id="",tvg-name="3SAT",tvg-logo="https://www.livedetv.com/uploads/kanal/284403Sat.png",group-title="المانيا",3SAT
 https://www.livedetv.com/token.php?stream=3sat
