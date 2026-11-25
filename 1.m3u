@@ -45,7 +45,26 @@ https://live-tv-116849026166.europe-west1.run.app/api/korasport/stream/bein4-108
 https://live-tv-116849026166.europe-west1.run.app/api/korasport/stream/bein5-1080p.m3u8
 #EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_6.png" group-title="BEIN SPORT ",|8K| | BEIN SPORT 5 
 https://live-tv-116849026166.europe-west1.run.app/api/korasport/stream/bein6-1080p.m3u8
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BeIN_Sports_logo.svg/200px-BeIN_Sports_logo.svg.png" group-title="⚽ beIN SPORTS",beIN SPORTS 1 HD - بي إن سبورت 1 (الدوري الإنجليزي والأبطال)
+http://27.124.71.27/beIN_Sports_1/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BeIN_Sports_logo.svg/200px-BeIN_Sports_logo.svg.png" group-title="⚽ beIN SPORTS",beIN SPORTS 2 HD - بي إن سبورت 2 (دوري أبطال أوروبا والبريميرليغ)
+http://27.124.71.27/beIN_Sports_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BeIN_Sports_logo.svg/200px-BeIN_Sports_logo.svg.png" group-title="⚽ beIN SPORTS",beIN SPORTS 3 HD - بي إن سبورت 3 (الدوري الإسباني والفرنسي)
+http://27.124.71.27/beIN_Sports_3/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BeIN_Sports_logo.svg/200px-BeIN_Sports_logo.svg.png" group-title="⚽ beIN SPORTS",beIN SPORTS 1 (سيرفر احتياطي) - بي إن سبورت 1 (سيرفر بديل)
+https://cp11.adabmedia.com/hls2/bein1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BeIN_Sports_logo.svg/200px-BeIN_Sports_logo.svg.png" group-title="⚽ beIN SPORTS",beIN SPORTS USA - بي إن سبورتس الأمريكية الرسمية
+https://tvsen6.aynaott.com/beinsports/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BeIN_Sports_logo.svg/200px-BeIN_Sports_logo.svg.png" group-title="⚽ beIN SPORTS",beIN SPORTS XTRA - بي إن سبورتس إكسترا (مباشر مجاني)
+https://bein-xtra-bein.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BeIN_Sports_logo.svg/200px-BeIN_Sports_logo.svg.png" group-title="⚽ beIN SPORTS",beIN SPORTS XTRA (FireTV) - بي إن سبورتس إكسترا (سيرفر أمازون السريع)
+https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BeIN_Sports_logo.svg/200px-BeIN_Sports_logo.svg.png" group-title="⚽ beIN SPORTS",beIN SPORTS XTRA (Cloudfront) - بي إن سبورتس إكسترا (سيرفر كلاود فرونت)
+https://d9ssxzmclhfo4.cloudfront.net/bein_sports.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BeIN_Sports_logo.svg/200px-BeIN_Sports_logo.svg.png" group-title="⚽ beIN SPORTS",beIN SPORTS XTRA Español - بي إن سبورتس إكسترا الإسبانية (الدوري اللاتيني والإسباني)
+https://bein-esp-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BeIN_Sports_logo.svg/200px-BeIN_Sports_logo.svg.png" group-title="⚽ beIN SPORTS",beIN SPORTS XTRA Español (Cloudfront) - بي إن سبورتس إكسترا الإسبانية (سيرفر بديل)
+https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
 #EXTINF:-1 tvg-id="",tvg-name="📡BEIN SPORT",tvg-logo="",group-title="bein",📡bein1-720p
 https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://live-tv-116849026166.europe-west1.run.app/api/korasport/stream/bein1-720p.m3u8
 #EXTINF:-1 tvg-id="",tvg-name="📡BEIN SPORT",tvg-logo="",group-title="bein",📡bein2-720p
