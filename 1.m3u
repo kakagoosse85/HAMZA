@@ -15,7 +15,18 @@ https://sportsbite.org/247/beINAR9?m3u8
 #EXTINF:-1 group-title="ALWAN",SUPERTV_1
 https://super-livetv.stvlp.workers.dev/SUPERTV_1.m3u8
 #EXTINF:-1 group-title="ALWAN",ALWAN SD1
+https://sham-proxy.stvlp.workers.dev/?url=https://data-hosting.app-sham-tv.xyz/flu/auth3.m3u8?id=241395
+#EXTINF:-1 group-title="ALWAN",ALWAN SD2
+https://sham-proxy.stvlp.workers.dev/?url=https://data-hosting.app-sham-tv.xyz/flu/auth3.m3u8?id=241396
+#EXTINF:-1 group-title="ALWAN",ALWAN SD3
 https://sham-proxy.stvlp.workers.dev/?url=https://data-hosting.app-sham-tv.xyz/flu/auth3.m3u8?id=241397
+#EXTINF:-1 group-title="ALWAN",ALWAN SD4
+https://sham-proxy.stvlp.workers.dev/?url=https://data-hosting.app-sham-tv.xyz/flu/auth3.m3u8?id=241398
+#EXTINF:-1 group-title="ALWAN",ALWAN SD5
+https://sham-proxy.stvlp.workers.dev/?url=https://data-hosting.app-sham-tv.xyz/flu/auth3.m3u8?id=241399
+#EXTINF:-1 group-title="ALWAN",ALWAN SD6
+
+
 
 #EXTINF:-1 group-title="BeIn",BEINSPORTS1.4K
 http://viptvptv.ddns.net/live/ar/qa/bein/bein_sport_1_hd/tracks-v1a1/mono.ts.m3u8
