@@ -3,6 +3,9 @@
 https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://cp11.adabmedia.com/hls2/bein1.m3u8
 #EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_1.png" group-title="BEIN SPORT",|8K| | BEIN SPORT 1 
 https://ayassport.776740.ir.cdn.ir/hls2/sport.m3u8
+#EXTINF:-1 group-title="ALWAN",ALWAN SD1
+https://sham-proxy.stvlp.workers.dev/?url=https://data-hosting.app-sham-tv.xyz/flu/auth3.m3u8?id=241397
+
 #EXTINF:-1 group-title="BeIn",BEINSPORTS1.4K
 http://viptvptv.ddns.net/live/ar/qa/bein/bein_sport_1_hd/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="BeIn",BEINSPORTS2.4K
