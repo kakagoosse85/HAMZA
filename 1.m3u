@@ -3,24 +3,24 @@
 https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://cp11.adabmedia.com/hls2/bein1.m3u8
 #EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_1.png" group-title="BEIN SPORT",|8K| | BEIN SPORT 1 
 https://ayassport.776740.ir.cdn.ir/hls2/sport.m3u8
-#EXTINF:-1 group-title="VIP خاص | BeIn KAIDN (بروكسي التطبيق)",BEINSPORTS1.4K
-https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://kaidnplus.ilovesoulpunk.workers.dev/c/1.m3u8
-#EXTINF:-1 group-title="VIP خاص | BeIn KAIDN (بروكسي التطبيق)",BEINSPORTS2.4K
-https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://kaidnplus.ilovesoulpunk.workers.dev/c/2.m3u8
-#EXTINF:-1 group-title="VIP خاص | BeIn KAIDN (بروكسي التطبيق)",BEINSPORTS3.4K
-https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://kaidnplus.ilovesoulpunk.workers.dev/c/3.m3u8
-#EXTINF:-1 group-title="VIP خاص | BeIn KAIDN (بروكسي التطبيق)",BEINSPORTS4.4K
-https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://kaidnplus.ilovesoulpunk.workers.dev/c/4.m3u8
-#EXTINF:-1 group-title="VIP خاص | BeIn KAIDN (بروكسي التطبيق)",BEINSPORTS5.4K
-https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://kaidnplus.ilovesoulpunk.workers.dev/c/5.m3u8
-#EXTINF:-1 group-title="VIP خاص | BeIn KAIDN (بروكسي التطبيق)",BEINSPORTS6.4K
-https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://kaidnplus.ilovesoulpunk.workers.dev/c/6.m3u8
-#EXTINF:-1 group-title="VIP خاص | BeIn KAIDN (بروكسي التطبيق)",BEINSPORTS7.4K
-https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://kaidnplus.ilovesoulpunk.workers.dev/c/7.m3u8
-#EXTINF:-1 group-title="VIP خاص | BeIn KAIDN (بروكسي التطبيق)",BEINSPORTS8.4K
-https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://kaidnplus.ilovesoulpunk.workers.dev/c/8.m3u8
-#EXTINF:-1 group-title="VIP خاص | BeIn KAIDN (بروكسي التطبيق)",BEINSPORTS9.4K
-https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://kaidnplus.ilovesoulpunk.workers.dev/c/9.m3u8
+#EXTINF:-1 group-title="BeIn",BEINSPORTS1.4K
+http://viptvptv.ddns.net/live/ar/qa/bein/bein_sport_1_hd/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="BeIn",BEINSPORTS2.4K
+http://viptvptv.ddns.net/live/ar/qa/bein/bein_sport_2_hd/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="BeIn",BEINSPORTS3.4K
+http://viptvptv.ddns.net/live/ar/qa/bein/bein_sport_3_hd/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="BeIn",BEINSPORTS4.4K
+http://viptvptv.ddns.net/live/ar/qa/bein/bein_sport_4_hd/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="BeIn",BEINSPORTS5.4K
+http://viptvptv.ddns.net/live/ar/qa/bein/bein_sport_5_hd/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="BeIn",BEINSPORTS6.4K
+http://viptvptv.ddns.net/live/ar/qa/bein/bein_sport_6_hd/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="BeIn",BEINSPORTS7.4K
+http://viptvptv.ddns.net/live/ar/qa/bein/bein_sport_7_hd/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="BeIn",BEINSPORTS8.4K
+http://viptvptv.ddns.net/live/ar/qa/bein/bein_sport_8_hd/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="BeIn",BEINSPORTS9.4K
+http://viptvptv.ddns.net/live/ar/qa/bein/bein_sport_9_hd/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_1.png" group-title="BEIN SPORT",beIN Sports 1 HD
 https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://2cdn.syria-player.info/proxy.php?stream=live/bein1.m3u8
 #EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_1.png" group-title="BEIN SPORT",beIN Sports 2 HD
