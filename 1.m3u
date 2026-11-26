@@ -7,7 +7,10 @@ https://ayassport.776740.ir.cdn.ir/hls2/sport.m3u8
 https://krikartv4k.shaqlawatvworkersdev.workers.dev/b1s/index.m3u8
 #EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_1.png" group-title="BEIN SPORTFHD", Bein Sports 5 FHD
 https://sportsbite.org/247/beINAR5?m3u8
-
+#EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_1.png" group-title="BEIN SPORTFHD", Bein Sports 8 FHD
+https://sportsbite.org/247/beINAR8?m3u8
+#EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_1.png" group-title="BEIN SPORTFHD", Bein Sports 9 FHD
+https://sportsbite.org/247/beINAR9?m3u8
 
 #EXTINF:-1 group-title="ALWAN",SUPERTV_1
 https://super-livetv.stvlp.workers.dev/SUPERTV_1.m3u8
