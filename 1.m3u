@@ -4,13 +4,13 @@ https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://cp11.adabmedia.com
 #EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_1.png" group-title="BEIN SPORT",|8K| | BEIN SPORT 1 
 https://ayassport.776740.ir.cdn.ir/hls2/sport.m3u8
 #EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_1.png" group-title="BEIN SPORT FHD", Bein Sports 1 FHD
-https://krikartv4k.shaqlawatvworkersdev.workers.dev/b1s/index.m3u8
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://krikartv4k.shaqlawatvworkersdev.workers.dev/b1s/index.m3u8
 #EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_1.png" group-title="BEIN SPORTFHD", Bein Sports 5 FHD
-https://sportsbite.org/247/beINAR5?m3u8
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://sportsbite.org/247/beINAR5?m3u8
 #EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_1.png" group-title="BEIN SPORTFHD", Bein Sports 8 FHD
-https://sportsbite.org/247/beINAR8?m3u8
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://sportsbite.org/247/beINAR8?m3u8
 #EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_1.png" group-title="BEIN SPORTFHD", Bein Sports 9 FHD
-https://sportsbite.org/247/beINAR9?m3u8
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://sportsbite.org/247/beINAR9?m3u8
 
 #EXTINF:-1 group-title=" A SUPERTV",SUPERTV_1
 https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://super-livetv.stvlp.workers.dev/SUPERTV_1.m3u8
