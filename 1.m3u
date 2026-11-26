@@ -12,8 +12,14 @@ https://sportsbite.org/247/beINAR8?m3u8
 #EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_1.png" group-title="BEIN SPORTFHD", Bein Sports 9 FHD
 https://sportsbite.org/247/beINAR9?m3u8
 
-#EXTINF:-1 group-title="ALWAN",SUPERTV_1
-https://super-livetv.stvlp.workers.dev/SUPERTV_1.m3u8
+#EXTINF:-1 group-title=" A SUPERTV",SUPERTV_1
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://super-livetv.stvlp.workers.dev/SUPERTV_1.m3u8
+#EXTINF:-1 group-title=" A SUPERTV",SUPERTV_1
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://super-livetv.stvlp.workers.dev/SUPERTV_2.m3u8
+#EXTINF:-1 group-title=" A SUPERTV",SUPERTV_3
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://super-livetv.stvlp.workers.dev/SUPERTV_3.m3u8
+#EXTINF:-1 group-title=" A SUPERTV",SUPERTV_4
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://super-livetv.stvlp.workers.dev/SUPERTV_4.m3u8
 #EXTINF:-1 group-title="ALWAN",ALWAN SD1
 https://sham-proxy.stvlp.workers.dev/?url=https://data-hosting.app-sham-tv.xyz/flu/auth3.m3u8?id=241395
 #EXTINF:-1 group-title="ALWAN",ALWAN SD2
