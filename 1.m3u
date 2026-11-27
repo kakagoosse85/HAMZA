@@ -24,8 +24,19 @@ https://sham-proxy.stvlp.workers.dev/?url=https://data-hosting.app-sham-tv.xyz/f
 #EXTINF:-1 group-title="ALWAN",ALWAN SD5
 https://sham-proxy.stvlp.workers.dev/?url=https://data-hosting.app-sham-tv.xyz/flu/auth3.m3u8?id=241399
 #EXTINF:-1 group-title="ALWAN",ALWAN SD6
-
-
+https://sham-proxy.stvlp.workers.dev/?url=https://data-hosting.app-sham-tv.xyz/flu/auth3.m3u8?id=241400
+#EXTINF:-1 group-title="ALWAN",ALWAN HD1
+https://sham-proxy.stvlp.workers.dev/?url=https://data-hosting.app-sham-tv.xyz/flu/auth3.m3u8?id=241389
+#EXTINF:-1 group-title="ALWAN",ALWAN HD2
+https://sham-proxy.stvlp.workers.dev/?url=https://data-hosting.app-sham-tv.xyz/flu/auth3.m3u8?id=241390
+#EXTINF:-1 group-title="ALWAN",ALWAN HD3
+https://sham-proxy.stvlp.workers.dev/?url=https://data-hosting.app-sham-tv.xyz/flu/auth3.m3u8?id=241391
+#EXTINF:-1 group-title="ALWAN",ALWAN HD4
+https://sham-proxy.stvlp.workers.dev/?url=https://data-hosting.app-sham-tv.xyz/flu/auth3.m3u8?id=241392
+#EXTINF:-1 group-title="ALWAN",ALWAN HD5
+https://sham-proxy.stvlp.workers.dev/?url=https://data-hosting.app-sham-tv.xyz/flu/auth3.m3u8?id=241393
+#EXTINF:-1 group-title="ALWAN",ALWAN HD6
+https://sham-proxy.stvlp.workers.dev/?url=https://data-hosting.app-sham-tv.xyz/flu/auth3.m3u8?id=241394
 
 #EXTINF:-1 group-title="BeIn",BEINSPORTS1.4K
 http://viptvptv.ddns.net/live/ar/qa/bein/bein_sport_1_hd/tracks-v1a1/mono.ts.m3u8
@@ -45,23 +56,23 @@ http://viptvptv.ddns.net/live/ar/qa/bein/bein_sport_7_hd/tracks-v1a1/mono.ts.m3u
 http://viptvptv.ddns.net/live/ar/qa/bein/bein_sport_8_hd/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="BeIn",BEINSPORTS9.4K
 http://viptvptv.ddns.net/live/ar/qa/bein/bein_sport_9_hd/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_1.png" group-title="BEIN SPORT",beIN Sports 1 HD
+#EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_1.png" group-title="BEIN SPORT سوريا لايف",beIN Sports 1 HD
 https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://2cdn.syria-player.info/proxy.php?stream=live/bein1.m3u8
-#EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_1.png" group-title="BEIN SPORT",beIN Sports 2 HD
+#EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_1.png" group-title="BEIN SPORT سوريا لايف",beIN Sports 2 HD
 https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://2cdn.syria-player.info/proxy.php?stream=live/bein2.m3u8
-#EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_1.png" group-title="BEIN SPORT",beIN Sports 3 HD
+#EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_1.png" group-title="BEIN SPORT سوريا لايف",beIN Sports 3 HD
 https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://2cdn.syria-player.info/proxy.php?stream=live/bein3.m3u8
-#EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_1.png" group-title="BEIN SPORT",beIN Sports 4 HD
+#EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_1.png" group-title="BEIN SPORT سوريا لايف",beIN Sports 4 HD
 https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://2cdn.syria-player.info/proxy.php?stream=live/bein4.m3u8
-#EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_1.png" group-title="BEIN SPORT",beIN Sports 5 HD
+#EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_1.png" group-title="BEIN SPORT سوريا لايف",beIN Sports 5 HD
 https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://2cdn.syria-player.info/proxy.php?stream=live/bein5.m3u8
-#EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_1.png" group-title="BEIN SPORT",beIN Sports 6 HD
+#EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_1.png" group-title="BEIN SPORT سوريا لايف",beIN Sports 6 HD
 https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://2cdn.syria-player.info/proxy.php?stream=live/bein6.m3u8
-#EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_1.png" group-title="BEIN SPORT",beIN Sports 7 HD
+#EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_1.png" group-title="BEIN SPORT سوريا لايف",beIN Sports 7 HD
 https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://2cdn.syria-player.info/proxy.php?stream=live/bein7.m3u8
-#EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_1.png" group-title="BEIN SPORT",beIN Sports 8 HD
+#EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_1.png" group-title="BEIN SPORT سوريا لايف",beIN Sports 8 HD
 https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://2cdn.syria-player.info/proxy.php?stream=live/bein8.m3u8
-#EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_1.png" group-title="BEIN SPORT",beIN Sports 9 HD
+#EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_1.png" group-title="BEIN SPORT سوريا لايف",beIN Sports 9 HD
 https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://2cdn.syria-player.info/proxy.php?stream=live/bein9.m3u8
 #EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_1.png" group-title="BEIN SPORT",AVAsport
 https://183.giatvcdn.com/giatv/giatv-yusfstoreavasport/yusfstoreavasport/chunks.m3u8
@@ -73,49 +84,30 @@ http://dashclloudflare.ddns.net/live/ku/ku/unit/falcone_1/tracks-v1/index.fmp4.m
 http://dashclloudflare.ddns.net/live/ku/ku/unit/falcone_2/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_1.png" group-title="BEIN SPORT",FALCON EYE 3
 http://dashclloudflare.ddns.net/live/ku/ku/unit/falcone_3/tracks-v1/index.fmp4.m3u8
-#EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_2.png" group-title="BEIN SPORT ",|8K| | BEIN SPORT 1 
+#EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_2.png" group-title="BEIN 1080p",BEIN SPORT 1  1080p
 https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://live-tv-116849026166.europe-west1.run.app/api/korasport/stream/bein1-1080p.m3u8
-#EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_3.png" group-title="BEIN SPORT ",|8K| | BEIN SPORT 2 
+#EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_3.png" group-title="BEIN 1080p",BEIN SPORT 2  1080p
 https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://live-tv-116849026166.europe-west1.run.app/api/korasport/stream/bein2-1080p.m3u8
-#EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_4.png" group-title="BEIN SPORT ",|8K| | BEIN SPORT 3
+#EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_4.png" group-title="BEIN 1080p",BEIN SPORT 3 1080p
 https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://live-tv-116849026166.europe-west1.run.app/api/korasport/stream/bein3-1080p.m3u8
-#EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_5.png" group-title="BEIN SPORT ",|8K| | BEIN SPORT 4 
+#EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_5.png" group-title="BEIN 1080p",BEIN SPORT 4 1080p
 https://live-tv-116849026166.europe-west1.run.app/api/korasport/stream/bein4-1080p.m3u8
-#EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_6.png" group-title="BEIN SPORT ",|8K| | BEIN SPORT 5 
+#EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_6.png" group-title="BEIN 1080p",BEIN SPORT 5 1080p
 https://live-tv-116849026166.europe-west1.run.app/api/korasport/stream/bein5-1080p.m3u8
-#EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_6.png" group-title="BEIN SPORT ",|8K| | BEIN SPORT 5 
+#EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_6.png" group-title="BEIN 1080p",BEIN SPORT 6 1080p
 https://live-tv-116849026166.europe-west1.run.app/api/korasport/stream/bein6-1080p.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BeIN_Sports_logo.svg/200px-BeIN_Sports_logo.svg.png" group-title="⚽ beIN SPORTS",beIN SPORTS 1 HD - بي إن سبورت 1 (الدوري الإنجليزي والأبطال)
-http://27.124.71.27/beIN_Sports_1/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BeIN_Sports_logo.svg/200px-BeIN_Sports_logo.svg.png" group-title="⚽ beIN SPORTS",beIN SPORTS 2 HD - بي إن سبورت 2 (دوري أبطال أوروبا والبريميرليغ)
-http://27.124.71.27/beIN_Sports_2/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BeIN_Sports_logo.svg/200px-BeIN_Sports_logo.svg.png" group-title="⚽ beIN SPORTS",beIN SPORTS 3 HD - بي إن سبورت 3 (الدوري الإسباني والفرنسي)
-http://27.124.71.27/beIN_Sports_3/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BeIN_Sports_logo.svg/200px-BeIN_Sports_logo.svg.png" group-title="⚽ beIN SPORTS",beIN SPORTS 1 (سيرفر احتياطي) - بي إن سبورت 1 (سيرفر بديل)
-https://cp11.adabmedia.com/hls2/bein1.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BeIN_Sports_logo.svg/200px-BeIN_Sports_logo.svg.png" group-title="⚽ beIN SPORTS",beIN SPORTS USA - بي إن سبورتس الأمريكية الرسمية
-https://tvsen6.aynaott.com/beinsports/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BeIN_Sports_logo.svg/200px-BeIN_Sports_logo.svg.png" group-title="⚽ beIN SPORTS",beIN SPORTS XTRA - بي إن سبورتس إكسترا (مباشر مجاني)
-https://bein-xtra-bein.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BeIN_Sports_logo.svg/200px-BeIN_Sports_logo.svg.png" group-title="⚽ beIN SPORTS",beIN SPORTS XTRA (FireTV) - بي إن سبورتس إكسترا (سيرفر أمازون السريع)
-https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BeIN_Sports_logo.svg/200px-BeIN_Sports_logo.svg.png" group-title="⚽ beIN SPORTS",beIN SPORTS XTRA (Cloudfront) - بي إن سبورتس إكسترا (سيرفر كلاود فرونت)
-https://d9ssxzmclhfo4.cloudfront.net/bein_sports.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BeIN_Sports_logo.svg/200px-BeIN_Sports_logo.svg.png" group-title="⚽ beIN SPORTS",beIN SPORTS XTRA Español - بي إن سبورتس إكسترا الإسبانية (الدوري اللاتيني والإسباني)
-https://bein-esp-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BeIN_Sports_logo.svg/200px-BeIN_Sports_logo.svg.png" group-title="⚽ beIN SPORTS",beIN SPORTS XTRA Español (Cloudfront) - بي إن سبورتس إكسترا الإسبانية (سيرفر بديل)
-https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
-#EXTINF:-1 tvg-id="",tvg-name="📡BEIN SPORT",tvg-logo="",group-title="bein",📡bein1-720p
+
+#EXTINF:-1 tvg-id="",tvg-name="📡BEIN SPORT",tvg-logo="",group-title="bein 720p",📡bein1-720p
 https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://live-tv-116849026166.europe-west1.run.app/api/korasport/stream/bein1-720p.m3u8
-#EXTINF:-1 tvg-id="",tvg-name="📡BEIN SPORT",tvg-logo="",group-title="bein",📡bein2-720p
+#EXTINF:-1 tvg-id="",tvg-name="📡BEIN SPORT",tvg-logo="",group-title="bein 720p",📡bein2-720p
 https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://live-tv-116849026166.europe-west1.run.app/api/korasport/stream/bein2-720p.m3u8
-#EXTINF:-1 tvg-id="",tvg-name="📡BEIN SPORT",tvg-logo="",group-title="bein",📡bein3-720p
+#EXTINF:-1 tvg-id="",tvg-name="📡BEIN SPORT",tvg-logo="",group-title="bein 720p",📡bein3-720p
 https://live-tv-116849026166.europe-west1.run.app/api/korasport/stream/bein3-720p.m3u8
-#EXTINF:-1 tvg-id="",tvg-name="📡BEIN SPORT",tvg-logo="",group-title="bein",📡bein4-720p
+#EXTINF:-1 tvg-id="",tvg-name="📡BEIN SPORT",tvg-logo="",group-title="bein 720p",📡bein4-720p
 https://live-tv-116849026166.europe-west1.run.app/api/korasport/stream/bein4-720p.m3u8
-#EXTINF:-1 tvg-id="",tvg-name="📡BEIN SPORT",tvg-logo="",group-title="bein",📡bein5-720p
+#EXTINF:-1 tvg-id="",tvg-name="📡BEIN SPORT",tvg-logo="",group-title="bein 720p",📡bein5-720p
 https://live-tv-116849026166.europe-west1.run.app/api/korasport/stream/bein5-720p.m3u8
-#EXTINF:-1 tvg-id="",tvg-name="📡BEIN SPORT",tvg-logo="",group-title="bein",📡bein6-720p
+#EXTINF:-1 tvg-id="",tvg-name="📡BEIN SPORT",tvg-logo="",group-title="bein 720p ",📡bein6-720p
 https://live-tv-116849026166.europe-west1.run.app/api/korasport/stream/bein6-720p.m3u8
 
 
