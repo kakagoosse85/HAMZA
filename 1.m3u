@@ -13,6 +13,20 @@ https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://super-livetv.stvlp
 https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://super-livetv.stvlp.workers.dev/SUPERTV_3.m3u8
 #EXTINF:-1 group-title=" A SUPERTV",SUPERTV_4
 https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://super-livetv.stvlp.workers.dev/SUPERTV_4.m3u8
+
+#EXTINF:-1 tvg-id="beIN1" tvg-name="beIN Sports 1" tvg-logo="https://up6.cc/2025/04/174489786002881.png" group-title="beIN Sports SD", beIN Sports 1 
+https://beinsd.kianezidi0.workers.dev/beee1.m3u8
+#EXTINF:-1 tvg-id="beIN1" tvg-name="beIN Sports 1" tvg-logo="https://up6.cc/2025/04/174489786002881.png" group-title="beIN Sports SD", beIN Sports 2 
+https://beinsd.kianezidi0.workers.dev/beee2.m3u8
+#EXTINF:-1 tvg-id="beIN1" tvg-name="beIN Sports 1" tvg-logo="https://up6.cc/2025/04/174489786002881.png" group-title="beIN Sports SD", beIN Sports 3 
+https://beinsd.kianezidi0.workers.dev/beee3.m3u8
+#EXTINF:-1 tvg-id="beIN1" tvg-name="beIN Sports 1" tvg-logo="https://up6.cc/2025/04/174489786002881.png" group-title="beIN Sports SD", beIN Sports 4 
+https://beinsd.kianezidi0.workers.dev/beee4.m3u8
+#EXTINF:-1 tvg-id="beIN1" tvg-name="beIN Sports 1" tvg-logo="https://up6.cc/2025/04/174489786002881.png" group-title="beIN Sports SD", beIN Sports 5 
+https://beinsd.kianezidi0.workers.dev/beee5.m3u8
+#EXTINF:-1 tvg-id="beIN1" tvg-name="beIN Sports 1" tvg-logo="https://up6.cc/2025/04/174489786002881.png" group-title="beIN Sports SD", beIN Sports 6 
+https://beinsd.kianezidi0.workers.dev/beee6.m3u8
+
 #EXTINF:-1 group-title="ALWAN",ALWAN SD1
 https://sham-proxy.stvlp.workers.dev/?url=https://data-hosting.app-sham-tv.xyz/flu/auth3.m3u8?id=241395
 #EXTINF:-1 group-title="ALWAN",ALWAN SD2
